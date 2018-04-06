@@ -17,7 +17,7 @@
     },
     "require": {
         "symfony/http-kernel": "~3.0",
-        "evaneos/burrow": "~4.0"
+        "evaneos/burrow": "dev-chore-symfony-console-4.0-support"
     },
     "require-dev": {
         "symfony/framework-bundle": "~3.0",
